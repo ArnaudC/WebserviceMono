@@ -1,0 +1,5 @@
+/home/a/Dropbox/Perso/1.Workspace/4.Microsoft/webservice_mono/webservice_mono/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/a/Dropbox/Perso/1.Workspace/4.Microsoft/webservice_mono/webservice_mono/bin/webservice_mono.dll.mdb
+/home/a/Dropbox/Perso/1.Workspace/4.Microsoft/webservice_mono/webservice_mono/bin/webservice_mono.dll
+/home/a/Dropbox/Perso/1.Workspace/4.Microsoft/webservice_mono/webservice_mono/obj/Debug/webservice_mono.dll
+/home/a/Dropbox/Perso/1.Workspace/4.Microsoft/webservice_mono/webservice_mono/obj/Debug/webservice_mono.dll.mdb
